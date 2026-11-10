@@ -1,0 +1,22 @@
+
+# Maven generated files
+target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Logs and screenshots
+logs/
+screenshots/
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
