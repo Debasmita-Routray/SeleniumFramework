@@ -1,22 +1,18 @@
-
-# Maven generated files
+# Maven build output
 target/
 
-# Eclipse files
-.classpath
-.project
-.settings/
+# TestNG generated output
+test-output/
 
-# IntelliJ files
-.idea/
-*.iml
+# Extent Reports
+reports/
 
-# Logs and screenshots
+# Logs
 logs/
-screenshots/
-*.log
 
-# Environment files
-.env
-.env.*
-!.env.example
+# Screenshots
+screenshots/
+
+# Eclipse files
+.metadata/
+~$*.xlsx
